@@ -1,7 +1,7 @@
 body {
   background-color: #f5f7fa;
   padding: 40px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 .container {
   display: flex;
@@ -123,7 +123,7 @@ body {
 }
 
 .skills-item::before {
-  content: '\2022';
+  content: "\2022";
   margin-right: 8px;
   color: #ff6b08;
   font-size: 18px;
@@ -209,17 +209,7 @@ body {
 
   color: #fff;
   background-color: #ff6b08;
-  box-shadow: 0px 8px 43px 0px rgba(255, 107, 8, 0.588);
 }
-
-.widget-link:hover {
-  box-shadow: 0px 8px 23px 0px #ff6b0896;
-}
-
-.widget-link:active {
-  box-shadow: inset 0px 2px 5px 0px #ff6b0896;
-}
-
 .photo:hover {
   animation: swing 1s;
 }
