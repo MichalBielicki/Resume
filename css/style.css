@@ -30,10 +30,12 @@ body {
   font-size: 45px;
   line-height: 2;
   margin-bottom: 20px;
+  font-family: Montserrat;
 }
 
 .bio-occupation {
   margin-bottom: 27px;
+  font-family: Montserrat;
 }
 
 .bio-title,
@@ -45,10 +47,16 @@ body {
 .bio-about {
   font-size: 14px;
   line-height: 1.714;
+  font-family: Montserrat;
 }
 
 .bio-about {
   color: #595959;
+  font-family: Montserrat;
+}
+.bio-born {
+  font-size: 15px;
+  font-family: Montserrat;
 }
 
 .projects-title {
